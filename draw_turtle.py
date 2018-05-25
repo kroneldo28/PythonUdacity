@@ -33,4 +33,5 @@ def draw_window():
 	draw_triangle(brad)
 
 	window.exitonclick()
+
 draw_window()
